@@ -7,6 +7,8 @@
 # turtle.right(90)
 # turtle.done()
 
+#yo yo Arya
+
 from turtle import *
 from math import radians, cos
 
